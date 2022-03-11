@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -9,6 +10,8 @@
     <style type="text/css">.body { width: auto; }</style>
   </head>
   <body>
+
 https://artefactual-ignitio.000webhostapp.com/
-  </body>
+ 
+ </body>
 </html>
